@@ -28,13 +28,13 @@ header {
   }
   
   .container {
-    width: 400px;
+    width: 600px;
     margin: auto;
     text-align: center;
   }
   
   #input {
-    width: 219px;
+    width: 600px;
     height: 37px;
     border-radius: 3.2px;
     border: solid 0.8px #1f233e;
@@ -84,10 +84,11 @@ header {
     margin: auto;
     margin-top: 25px;
     font-family: Source Sans Pro;
-    font-size: 16px;
+    font-size: 20px;
     letter-spacing: 0.2px;
     text-align: center;
-    color: #ffffff;
+    color: #ffb1b1;
+    font-weight: bold;
     overflow: auto;
   }
   
